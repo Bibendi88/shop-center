@@ -936,7 +936,8 @@
             "phone2": "",
             "subcategories": ["", ""],
             "brands": ["", ""],
-            "area": "78"
+            "area": "78",
+            "link": "https://www.tvkdom.ru/shops/gallery-of-tile"
         },
         {
             "level": "0",
@@ -970,8 +971,6 @@
             "subcategories": ["50"],
             "brands": ["22"],
             "area": "17",
-            "image": true
-
         },
         {
             "level": "0",
