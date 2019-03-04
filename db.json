@@ -4888,11 +4888,11 @@
             "level": "2",
             "place": "c60",
             "id": "43568329399",
-            "name": "Место свободно",
+            "name": "hello",
             "phone": "+7(985)233-16-66",
             "phone2": "",
-            "subcategories": ["44"],
-            "brands": ["51"],
+            "subcategories": [""],
+            "brands": [""],
             "area": "15.7"
         }
     ]
