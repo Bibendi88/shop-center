@@ -931,23 +931,23 @@
             "level": "0",
             "place": "c1",
             "id": "91377322599",
-            "name": "Галерея плитки",
+            "name": "Место свободно",
             "phone": "8(985)233-16-66",
             "phone2": "",
             "subcategories": ["", ""],
             "brands": ["", ""],
             "area": "78",
-            "link": "https://www.tvkdom.ru/shops/gallery-of-tile"
+            "link": ""
         },
         {
             "level": "0",
             "place": "c2",
             "id": "91949471699",
             "name": "Место свободно",
-            "phone": "+7(985)233-16-66",
+            "phone": "8(985)233-16-66",
             "phone2": "",
-            "subcategories": ["53, 54, 55"],
-            "brands": ["39"],
+            "subcategories": ["", ""],
+            "brands": ["", ""],
             "area": "104"
         },
         {
@@ -955,10 +955,10 @@
             "place": "c3",
             "id": "56983048799",
             "name": "Место свободно",
-            "phone": "+7(985)233-16-66",
+            "phone": "8(985)233-16-66",
             "phone2": "",
-            "subcategories": ["96"],
-            "brands": ["56"],
+            "subcategories": ["", ""],
+            "brands": ["", ""],
             "area": "49"
         },
         {
@@ -966,10 +966,10 @@
             "place": "c4",
             "id": "75643643299",
             "name": "Место свободно",
-            "phone": "+7(985)233-16-66",
+            "phone": "8(985)233-16-66",
             "phone2": "",
-            "subcategories": ["50"],
-            "brands": ["22"],
+            "subcategories": ["", ""],
+            "brands": ["", ""],
             "area": "17"
         },
         {
@@ -977,10 +977,10 @@
             "place": "c5",
             "id": "45994064999",
             "name": "Место свободно",
-            "phone": "+7(985)233-16-66",
+            "phone": "8(985)233-16-66",
             "phone2": "",
-            "subcategories": ["83"],
-            "brands": ["3"],
+            "subcategories": ["", ""],
+            "brands": ["", ""],
             "area": "16"
         },
         {
@@ -988,10 +988,10 @@
             "place": "c6",
             "id": "51524246499",
             "name": "Место свободно",
-            "phone": "+7(985)233-16-66",
+            "phone": "8(985)233-16-66",
             "phone2": "",
-            "subcategories": ["92"],
-            "brands": ["62"],
+            "subcategories": ["", ""],
+            "brands": ["", ""],
             "area": "86.4"
         },
         {
@@ -999,10 +999,10 @@
             "place": "c7",
             "id": "82601206899",
             "name": "Место свободно",
-            "phone": "+7(985)233-16-66",
+            "phone": "8(985)233-16-66",
             "phone2": "",
-            "subcategories": ["33"],
-            "brands": ["85"],
+            "subcategories": ["", ""],
+            "brands": ["", ""],
             "area": "86.4"
         },
         {
@@ -1010,10 +1010,10 @@
             "place": "c8",
             "id": "27903940599",
             "name": "Место свободно",
-            "phone": "+7(985)233-16-66",
+            "phone": "8(985)233-16-66",
             "phone2": "",
-            "subcategories": ["109"],
-            "brands": ["27"],
+            "subcategories": ["", ""],
+            "brands": ["", ""],
             "area": "56.7"
         },
         {
